@@ -1,0 +1,5 @@
+"IP_CLM_DAYS_CD", "Length of stay"
+1, '1 day'
+2, '2-3 days'
+3, '4-7 days'
+4, '8 or more days'
