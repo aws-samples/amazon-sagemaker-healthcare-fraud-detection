@@ -4,21 +4,7 @@
 
 IDC study states that 40% of Enteprises in year 2019 will be working to include AI/ML as a part of their transformative strategy. Today, AI/ML is beyond the hype cycle and there are usecases that are providing real business value. 
 
-In this workshop, we will work on a healthcare insurance fraud identification usecase. We will apply machine learning to identify anomalous claims that require further investigation. The technique used in the workshop is broadly applicable to multiple problems related to outlier detection on multi-variate data.
-
-## Learning Objectives
-1. Develop intution for steps involved in the Machine Learning Process
-2. Understand and Implement end to end machine learning on Amazon SageMaker to Build, Train and Deploy a model.
-3. Clone a public gitrepo automatically in Amazon Sagemaker Notebook during the launch.
-4. Perform feature engineering on categorical data using Word Embeddings with CBOW-Bag of Words-technique
-5. Train and use PCA algorithm for feature extraction
-6. Understand how to calculate anomaly score from principal components of PCA model.
-7. Perform visualization to understand anomalous claims.
-
-
-
-## Machine Learning process
-![Machine Learning Process](./images/ml-process.png)
+In this workshop, we will work on a healthcare insurance fraud identification usecase. We will apply machine learning to identify anomalous claims that require further investigation. The technique used in the workshop is broadly applicable to multiple problems fraud, abuse and waste.
 
 ## **Launch an Amazon SageMaker Jupyter Notebook**
 
@@ -46,7 +32,8 @@ In this workshop, we will work on a healthcare insurance fraud identification us
 
 
 ## Finish
-1. **Congratulations!**. Please make sure to delete all resources as mentioned in the section below.
+1. **Congratulations!**. 
+2. Please make sure to delete all resources as mentioned in the section below.
 
 
 ## Cleanup Resources
