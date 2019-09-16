@@ -32,7 +32,7 @@ In this workshop, we will work on a healthcare insurance fraud identification us
 
 
 ## Finish
-1. **Congratulations!**. 
+1. **Congratulations!** 
 2. Please make sure to delete all resources as mentioned in the section below.
 
 
